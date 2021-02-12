@@ -2,4 +2,5 @@
 To run following program you need to
 ```git clone [this repo]
 pip install -r requirements.txt 
-python main.py```
+python main.py
+```
